@@ -1,6 +1,6 @@
 {
-    "name": "Amazon.com link to Shelfari",
-    "description": "Add a link to an Amazon.com book page to corresponding Shelfari",
+    "name": "Amazon.com to Shelfari Link",
+    "description": "Add a link on an Amazon.com book page to the corresponding Shelfari page.",
     "version": "1.0",
     "permissions": ["http://*.shelfari.com/*"],
     "content_scripts": [ {
